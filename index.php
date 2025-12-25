@@ -90,7 +90,7 @@
           <div class="card-body text-center">
             <h5>Wildflower Honey</h5>
             <p class="text-muted">Pure Kenyan wildflower honey.</p>
-            <strong>KES 1,200</strong><br>
+            <strong>KES 1,499.00</strong><br>
             <button class="btn btn-honey mt-2" onclick='addToCart({id:1,name:"Wildflower Honey",price:1200})'>Add to Cart</button>
           </div>
         </div>
@@ -103,7 +103,7 @@
           <div class="card-body text-center">
             <h5>Forest Honey</h5>
             <p class="text-muted">Natural forest honey.</p>
-            <strong>KES 1,500</strong><br>
+            <strong>KES 1,799.00</strong><br>
             <button class="btn btn-honey mt-2" onclick='addToCart({id:2,name:"Forest Honey",price:1500})'>Add to Cart</button>
           </div>
         </div>
@@ -116,7 +116,7 @@
           <div class="card-body text-center">
             <h5>Acacia Honey</h5>
             <p class="text-muted">Raw acacia honey.</p>
-            <strong>KES 1,800</strong><br>
+            <strong>KES 2,499.00</strong><br>
             <button class="btn btn-honey mt-2" onclick='addToCart({id:3,name:"Acacia Honey",price:1800})'>Add to Cart</button>
           </div>
         </div>
@@ -135,14 +135,14 @@
         <div class="p-4 shadow-sm">
           ⭐⭐⭐⭐⭐  
           <p class="mt-2">“Best honey I’ve ever tasted. You can feel the quality!”</p>
-          <strong>- Sarah K.</strong>
+          <strong>- Vinnet Gesare</strong>
         </div>
       </div>
       <div class="col-md-6 mb-4">
         <div class="p-4 shadow-sm">
           ⭐⭐⭐⭐⭐  
           <p class="mt-2">“Fast delivery and truly raw honey. Highly recommended.”</p>
-          <strong>- James M.</strong>
+          <strong>- Marion Nyamweya</strong>
         </div>
       </div>
     </div>
