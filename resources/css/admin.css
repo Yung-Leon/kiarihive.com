@@ -1,0 +1,53 @@
+body { font-family: 'Poppins', sans-serif; background:#f8f9fa; }
+#wrapper { display:flex; min-height:100vh; }
+#sidebar-wrapper { width:220px; }
+.bg-dark-blue { background:#001f4d !important; }
+#sidebar-wrapper .list-group-item { border:none; }
+#sidebar-wrapper .list-group-item:hover { background:#003366; }
+#page-content-wrapper { flex:1; }
+.card { border-radius:8px; }
+/* Action Buttons */
+.btn-process { 
+    background-color: #28a745; 
+    color: #fff; 
+    font-weight: 600; 
+}
+
+.btn-process:hover { 
+    background-color: #218838; 
+}
+
+.btn-cancel { 
+    background-color: #ff9800; 
+    color: #fff; 
+    font-weight: 600; 
+}
+
+.btn-cancel:hover { 
+    background-color: #fb8c00; 
+}
+
+.btn-delete { 
+    background-color: #dc3545;  
+    color: #fff; 
+    font-weight: 600; 
+}
+
+.btn-delete:hover { 
+    background-color: #c82333; 
+}
+/* Action Buttons Override Bootstrap */
+a.btn-delete,
+button.btn-delete {
+    background-color: #dc3545 !important; 
+    color: #fff !important;
+    font-weight: 600;
+    border: none;
+}
+
+a.btn-delete:hover,
+button.btn-delete:hover {
+    background-color: #c82333 !important; 
+    color: #fff !important;
+}
+
